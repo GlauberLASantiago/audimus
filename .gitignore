@@ -1,0 +1,3 @@
+node_modules/
+assets/web/*
+!assets/web/audimus-web.swf

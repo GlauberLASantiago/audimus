@@ -1,0 +1,33 @@
+{
+  "carrier_sha256": "c9beddb7d75fcaa935e94e23620279975421bfa98922e192a62ae03bc2df6a79",
+  "carrier_size": 852813,
+  "movie_offset": 819200,
+  "movie_size": 33605,
+  "movie_sha256": "5b98a3d8972b7da28e6a25c9f443cc9408a980a2519d89cdcef23b5f540a36c2",
+  "footer_magic_hex": "0xfa123456",
+  "footer_movie_size": 33605,
+  "compression": "CWS/zlib",
+  "zlib_eof": true,
+  "zlib_unused_bytes": 0,
+  "declared_length": 56549,
+  "actual_length": 56549,
+  "validated_tags": 1528,
+  "ends": [
+    {
+      "timeline": "root/sprite2",
+      "end_tag_offset": 20,
+      "data_length": 22
+    },
+    {
+      "timeline": "root/sprite3",
+      "end_tag_offset": 392,
+      "data_length": 394
+    },
+    {
+      "timeline": "root",
+      "end_tag_offset": 56547,
+      "data_length": 56549
+    }
+  ],
+  "native_execution": false
+}

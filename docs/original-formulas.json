@@ -1,0 +1,183 @@
+[
+  {
+    "action": "DoAction",
+    "assignments": [],
+    "method_calls": []
+  },
+  {
+    "action": "button10/condition8",
+    "assignments": [],
+    "method_calls": [
+      "_root.nextFrame()"
+    ]
+  },
+  {
+    "action": "DoAction",
+    "assignments": [],
+    "method_calls": []
+  },
+  {
+    "action": "button17/condition8",
+    "assignments": [],
+    "method_calls": [
+      "_root.prevFrame()"
+    ]
+  },
+  {
+    "action": "button43/condition8",
+    "assignments": [
+      "ap1 = (Math.round((100000 * (1 / af1))) / 100)"
+    ],
+    "method_calls": [
+      "Math.round((100000 * (1 / af1)))"
+    ]
+  },
+  {
+    "action": "button44/condition8",
+    "assignments": [
+      "af2 = (Math.round((100000 * (1 / ap2))) / 100)"
+    ],
+    "method_calls": [
+      "Math.round((100000 * (1 / ap2)))"
+    ]
+  },
+  {
+    "action": "DoAction",
+    "assignments": [],
+    "method_calls": []
+  },
+  {
+    "action": "button92/condition8",
+    "assignments": [
+      "bc1 = (Math.round((100 * (bv1 / bf1))) / 100)",
+      "bc1b = (Math.round((10000 * (bv1 / bf1))) / 100)"
+    ],
+    "method_calls": [
+      "Math.round((100 * (bv1 / bf1)))",
+      "Math.round((10000 * (bv1 / bf1)))"
+    ]
+  },
+  {
+    "action": "button93/condition8",
+    "assignments": [
+      "bf2 = (Math.round((100 * (bv2 / bc2))) / 100)",
+      "bc2b = (bc2 * 100)"
+    ],
+    "method_calls": [
+      "Math.round((100 * (bv2 / bc2)))"
+    ]
+  },
+  {
+    "action": "button94/condition8",
+    "assignments": [
+      "bt3 = (Math.round((1000 * (bd3 / bv3))) / 1000)",
+      "bt3b = (Math.round((100000 * (bd3 / bv3))) / 100)"
+    ],
+    "method_calls": [
+      "Math.round((1000 * (bd3 / bv3)))",
+      "Math.round((100000 * (bd3 / bv3)))"
+    ]
+  },
+  {
+    "action": "button95/condition8",
+    "assignments": [
+      "bd4 = (Math.round((100 * (bv4 * bt4))) / 100)",
+      "bt4b = (bt4 * 1000)",
+      "bd4b = (Math.round((100000 * (bv4 * bt4))) / 1000)"
+    ],
+    "method_calls": [
+      "Math.round((100 * (bv4 * bt4)))",
+      "Math.round((100000 * (bv4 * bt4)))"
+    ]
+  },
+  {
+    "action": "button162/condition8",
+    "assignments": [
+      "cdb1 = (Math.round((1000 * (Math.log((cpa2 / cpa1)) / 2.302585092994046))) / 100)"
+    ],
+    "method_calls": [
+      "Math.log((cpa2 / cpa1))",
+      "Math.round((1000 * (Math.log((cpa2 / cpa1)) / 2.302585092994046)))"
+    ]
+  },
+  {
+    "action": "button163/condition8",
+    "assignments": [
+      "cpb2 = (Math.round((100 * (cpb1 * Math.pow(10, (cdb2 / 10))))) / 100)"
+    ],
+    "method_calls": [
+      "Math.pow(10, (cdb2 / 10))",
+      "Math.round((100 * (cpb1 * Math.pow(10, (cdb2 / 10)))))"
+    ]
+  },
+  {
+    "action": "button164/condition8",
+    "assignments": [
+      "cia = Math.pow(10, (ci1 / 10))",
+      "cib = Math.pow(10, (ci2 / 10))",
+      "ci3 = (Math.round((1000 * (Math.log((cia + cib)) / 2.302585092994046))) / 100)"
+    ],
+    "method_calls": [
+      "Math.pow(10, (ci1 / 10))",
+      "Math.pow(10, (ci2 / 10))",
+      "Math.log((cia + cib))",
+      "Math.round((1000 * (Math.log((cia + cib)) / 2.302585092994046)))"
+    ]
+  },
+  {
+    "action": "button195/condition8",
+    "assignments": [
+      "dd3 = (dd2 - dd1)",
+      "ddb1 = ((-1 * Math.round((2000 * (Math.log((dd2 / dd1)) / 2.302585092994046)))) / 100)",
+      "dw1 = (Math.round((100 * Math.pow(10, (ddb1 / 10)))) / 100)"
+    ],
+    "method_calls": [
+      "Math.log((dd2 / dd1))",
+      "Math.round((2000 * (Math.log((dd2 / dd1)) / 2.302585092994046)))",
+      "Math.pow(10, (ddb1 / 10))",
+      "Math.round((100 * Math.pow(10, (ddb1 / 10))))"
+    ]
+  },
+  {
+    "action": "button200/condition8",
+    "assignments": [
+      "dd6 = (Math.round((100 * (dd4 * Math.pow(10, ((-1 * ddb2) / 20))))) / 100)",
+      "dd5 = (dd6 - dd4)"
+    ],
+    "method_calls": [
+      "Math.pow(10, ((-1 * ddb2) / 20))",
+      "Math.round((100 * (dd4 * Math.pow(10, ((-1 * ddb2) / 20)))))"
+    ]
+  },
+  {
+    "action": "button410/condition8",
+    "assignments": [
+      "ff2 = (Math.round(((10000 * ff1) * 1.059)) / 10000)",
+      "ff3 = (Math.round(((10000 * ff1) * 1.122)) / 10000)",
+      "ff4 = (Math.round(((10000 * ff1) * 1.189)) / 10000)",
+      "ff5 = (Math.round(((10000 * ff1) * 1.26)) / 10000)",
+      "ff6 = (Math.round(((10000 * ff1) * 1.335)) / 10000)",
+      "ff7 = (Math.round(((10000 * ff1) * 1.414)) / 10000)",
+      "ff8 = (Math.round(((10000 * ff1) * 1.498)) / 10000)",
+      "ff9 = (Math.round(((10000 * ff1) * 1.587)) / 10000)",
+      "ff10 = (Math.round(((10000 * ff1) * 1.682)) / 10000)",
+      "ff11 = (Math.round(((10000 * ff1) * 1.782)) / 10000)",
+      "ff12 = (Math.round(((10000 * ff1) * 1.888)) / 10000)",
+      "ff13 = (Math.round(((10000 * ff1) * 2)) / 10000)"
+    ],
+    "method_calls": [
+      "Math.round(((10000 * ff1) * 1.059))",
+      "Math.round(((10000 * ff1) * 1.122))",
+      "Math.round(((10000 * ff1) * 1.189))",
+      "Math.round(((10000 * ff1) * 1.26))",
+      "Math.round(((10000 * ff1) * 1.335))",
+      "Math.round(((10000 * ff1) * 1.414))",
+      "Math.round(((10000 * ff1) * 1.498))",
+      "Math.round(((10000 * ff1) * 1.587))",
+      "Math.round(((10000 * ff1) * 1.682))",
+      "Math.round(((10000 * ff1) * 1.782))",
+      "Math.round(((10000 * ff1) * 1.888))",
+      "Math.round(((10000 * ff1) * 2))"
+    ]
+  }
+]

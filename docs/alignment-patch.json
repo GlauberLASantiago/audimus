@@ -1,0 +1,864 @@
+{
+  "source_sha256": "5b98a3d8972b7da28e6a25c9f443cc9408a980a2519d89cdcef23b5f540a36c2",
+  "web_sha256": "0a7cf62dfc74fcde26132fe1d0fa90d583c8828160e9adaf7e35730a08fe02de",
+  "changed_byte_count": 57,
+  "uncompressed_length": 56549,
+  "only_change": "DefineEditText alignment1(right)\u21920(left), exactly57bytes; fontIDs, glyphs, UseOutlines, dimensions, variables, initialvalues and ActionScript unchanged",
+  "fields": [
+    {
+      "field_id": 25,
+      "variable": "af1",
+      "uncompressed_byte_offset": 18085,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 27,
+      "variable": "ap1",
+      "uncompressed_byte_offset": 18242,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1027,
+        -40,
+        264
+      ]
+    },
+    {
+      "field_id": 30,
+      "variable": "ap2",
+      "uncompressed_byte_offset": 18458,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1034,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 32,
+      "variable": "af2",
+      "uncompressed_byte_offset": 18638,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        976,
+        -40,
+        264
+      ]
+    },
+    {
+      "field_id": 60,
+      "variable": "f2",
+      "uncompressed_byte_offset": 24315,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 61,
+      "variable": "f2",
+      "uncompressed_byte_offset": 24375,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 62,
+      "variable": "f2",
+      "uncompressed_byte_offset": 24435,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 63,
+      "variable": "bd3",
+      "uncompressed_byte_offset": 24495,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 64,
+      "variable": "bv3",
+      "uncompressed_byte_offset": 24556,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 65,
+      "variable": "bt3",
+      "uncompressed_byte_offset": 24617,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        675,
+        -40,
+        268
+      ]
+    },
+    {
+      "field_id": 66,
+      "variable": "bt3b",
+      "uncompressed_byte_offset": 24676,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        675,
+        -40,
+        268
+      ]
+    },
+    {
+      "field_id": 67,
+      "variable": "bv4",
+      "uncompressed_byte_offset": 24739,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 68,
+      "variable": "bt4",
+      "uncompressed_byte_offset": 24800,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 69,
+      "variable": "bt4b",
+      "uncompressed_byte_offset": 24863,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 70,
+      "variable": "bd4",
+      "uncompressed_byte_offset": 24923,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 71,
+      "variable": "bd4b",
+      "uncompressed_byte_offset": 24985,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 79,
+      "variable": "bv1",
+      "uncompressed_byte_offset": 25866,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 220,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        291
+      ]
+    },
+    {
+      "field_id": 80,
+      "variable": "bf1",
+      "uncompressed_byte_offset": 25927,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 81,
+      "variable": "bc1",
+      "uncompressed_byte_offset": 25988,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 85,
+      "variable": "bc1b",
+      "uncompressed_byte_offset": 26351,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1402,
+        -40,
+        264
+      ]
+    },
+    {
+      "field_id": 86,
+      "variable": "bv2",
+      "uncompressed_byte_offset": 26415,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 87,
+      "variable": "bc2",
+      "uncompressed_byte_offset": 26476,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 88,
+      "variable": "bf2",
+      "uncompressed_byte_offset": 26535,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 89,
+      "variable": "bc2b",
+      "uncompressed_byte_offset": 26596,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        1044,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 153,
+      "variable": "cpa1",
+      "uncompressed_byte_offset": 34631,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 154,
+      "variable": "cpa2",
+      "uncompressed_byte_offset": 34692,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 155,
+      "variable": "cdb1",
+      "uncompressed_byte_offset": 34753,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 156,
+      "variable": "cpb1",
+      "uncompressed_byte_offset": 34817,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 157,
+      "variable": "cdb2",
+      "uncompressed_byte_offset": 34879,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 158,
+      "variable": "cpb2",
+      "uncompressed_byte_offset": 34943,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 159,
+      "variable": "ci1",
+      "uncompressed_byte_offset": 35008,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 160,
+      "variable": "ci2",
+      "uncompressed_byte_offset": 35069,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 161,
+      "variable": "ci3",
+      "uncompressed_byte_offset": 35130,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 165,
+      "variable": "cia",
+      "uncompressed_byte_offset": 35879,
+      "before": 1,
+      "after": 0,
+      "font_id": 11,
+      "font_height_twips": 200,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 166,
+      "variable": "cib",
+      "uncompressed_byte_offset": 35941,
+      "before": 1,
+      "after": 0,
+      "font_id": 11,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 190,
+      "variable": "dd1",
+      "uncompressed_byte_offset": 39551,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 191,
+      "variable": "dd2",
+      "uncompressed_byte_offset": 39611,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 192,
+      "variable": "dd3",
+      "uncompressed_byte_offset": 39671,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 193,
+      "variable": "ddb1",
+      "uncompressed_byte_offset": 39731,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 194,
+      "variable": "dw1",
+      "uncompressed_byte_offset": 39796,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 196,
+      "variable": "dd4",
+      "uncompressed_byte_offset": 40186,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 197,
+      "variable": "ddb2",
+      "uncompressed_byte_offset": 40246,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 198,
+      "variable": "dd5",
+      "uncompressed_byte_offset": 40311,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 199,
+      "variable": "dd6",
+      "uncompressed_byte_offset": 40371,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 397,
+      "variable": "ff1",
+      "uncompressed_byte_offset": 54938,
+      "before": 1,
+      "after": 0,
+      "font_id": 24,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 398,
+      "variable": "ff2",
+      "uncompressed_byte_offset": 55000,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 399,
+      "variable": "ff3",
+      "uncompressed_byte_offset": 55065,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 400,
+      "variable": "ff4",
+      "uncompressed_byte_offset": 55130,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 401,
+      "variable": "ff5",
+      "uncompressed_byte_offset": 55195,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 402,
+      "variable": "ff6",
+      "uncompressed_byte_offset": 55259,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 403,
+      "variable": "ff7",
+      "uncompressed_byte_offset": 55323,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 404,
+      "variable": "ff8",
+      "uncompressed_byte_offset": 55388,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 405,
+      "variable": "ff9",
+      "uncompressed_byte_offset": 55453,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 406,
+      "variable": "ff10",
+      "uncompressed_byte_offset": 55518,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 407,
+      "variable": "ff11",
+      "uncompressed_byte_offset": 55584,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 408,
+      "variable": "ff12",
+      "uncompressed_byte_offset": 55650,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    },
+    {
+      "field_id": 409,
+      "variable": "ff13",
+      "uncompressed_byte_offset": 55716,
+      "before": 1,
+      "after": 0,
+      "font_id": 18,
+      "font_height_twips": 201,
+      "bounds_twips": [
+        -40,
+        2102,
+        -40,
+        269
+      ]
+    }
+  ]
+}
